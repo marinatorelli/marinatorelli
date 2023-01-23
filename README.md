@@ -1,6 +1,6 @@
 Hi, I'm Marina! 👋
 -
-I'm a Computer Science university student, minoring in computation. 
+I'm a Computer Science & Engineering Graduate.
 <!--
 **marinatorelli/marinatorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
