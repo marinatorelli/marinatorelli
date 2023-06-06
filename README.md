@@ -1,6 +1,10 @@
 Hi, I'm Marina! 👋
 -
 I'm a Computer Science & Engineering Graduate.
+I'm interested in all things tech and design.
+-
+During the final years of my univeristy degree I've specialised in AI, ML, data and computation.
+I'm also really into UI/UX design and web, mobile and API development.
 <!--
 **marinatorelli/marinatorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
